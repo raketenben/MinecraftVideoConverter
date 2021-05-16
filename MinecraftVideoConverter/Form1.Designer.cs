@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.VideoSelect = new System.Windows.Forms.Button();
             this.PreviewPicture = new System.Windows.Forms.PictureBox();
             this.ProgressBar = new System.Windows.Forms.ProgressBar();
@@ -198,6 +199,7 @@
             this.Controls.Add(this.ProgressBar);
             this.Controls.Add(this.PreviewPicture);
             this.Controls.Add(this.VideoSelect);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Minecraft Video Converter";
             ((System.ComponentModel.ISupportInitialize)(this.PreviewPicture)).EndInit();
