@@ -4,7 +4,7 @@ A Mapmaking tool for creating playable videos in Minecraft without the need for 
 
 ## HOW TO USE
 
-1. Download "MinecraftVideoConverter.exe" and "VideoplayerDatapack.zip" from the [release page](https://github.com/raketenben/MinecraftVideoConverter/releases/tag/v1.0).
+1. Download "MinecraftVideoConverter.exe" and "VideoplayerDatapack.zip" from the [release page](https://github.com/raketenben/MinecraftVideoConverter/releases/tag/v1.1).
 2. Put the "VideoplayerDatapack.zip" in the "datapacks" folder of your world.
 3. Execute the "MinecraftVideoConverter.exe" (If windows blocks the execution, click on "More Information" and "Execute anyway").
 4. Inside of the programm select the video you want, as well as your world.
